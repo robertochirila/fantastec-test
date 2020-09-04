@@ -1,8 +1,15 @@
 import React, { Component } from "react";
 
 export class Commentary extends Component {
+  displayList = () => {
+    return (
+      <div>
+        <p>Display List</p>
+      </div>
+    );
+  };
   render() {
-    return <div></div>;
+    return <div>{this.displayList()}</div>;
   }
 }
 
