@@ -13,7 +13,7 @@ const Game = (props) => {
       <Date date={props.game.date} />
       <Commentators commentators={props.game.commentators} />
       <Commentary commentary={props.game.commentary} />
-      <KeyMoments />
+      <KeyMoments keyMoments={props.game.keyMoments} />
     </div>
   );
 };

@@ -4,8 +4,8 @@
       "title": "Arsenal - Chelsea",
       "date": "5'th of September 2020",
       "teams": ["Arsenal", "Chelsea"],
-      "Commentators": ["Andy Gray", "Martin Tyler"],
-      "Commentary": [
+      "commentators": ["Andy Gray", "Martin Tyler"],
+      "commentary": [
         {
           "minute": "0",
           "text": "Hello ladies and gentleman and welcome to another classic derby between Arsenal and Chelsea"
@@ -44,8 +44,8 @@
       "title": "Real Madrid - Barcelona",
       "date": "5'th of September 2020",
       "teams": ["Arsenal", "Chelsea"],
-      "Commentators": ["Andy Gray", "Martin Tyler"],
-      "Commentary": [
+      "commentators": ["Andy Gray", "Martin Tyler"],
+      "commentary": [
         {
           "minute": "0",
           "text": "Hello ladies and gentleman and welcome to another classic derby between Arsenal and Chelsea"
@@ -84,8 +84,8 @@
       "title": "Bayern Munchen - Borussia Dortmund",
       "date": "5'th of September 2020",
       "teams": ["Arsenal", "Chelsea"],
-      "Commentators": ["Andy Gray", "Martin Tyler"],
-      "Commentary": [
+      "commentators": ["Andy Gray", "Martin Tyler"],
+      "commentary": [
         {
           "minute": "0",
           "text": "Hello ladies and gentleman and welcome to another classic derby between Arsenal and Chelsea"
@@ -124,8 +124,8 @@
       "title": "PSG - Marseille",
       "date": "5'th of September 2020",
       "teams": ["Arsenal", "Chelsea"],
-      "Commentators": ["Andy Gray", "Martin Tyler"],
-      "Commentary": [
+      "commentators": ["Andy Gray", "Martin Tyler"],
+      "commentary": [
         {
           "minute": "0",
           "text": "Hello ladies and gentleman and welcome to another classic derby between Arsenal and Chelsea"
@@ -164,8 +164,8 @@
       "title": "Juventus - Napoli",
       "date": "5'th of September 2020",
       "teams": ["Arsenal", "Chelsea"],
-      "Commentators": ["Andy Gray", "Martin Tyler"],
-      "Commentary": [
+      "commentators": ["Andy Gray", "Martin Tyler"],
+      "commentary": [
         {
           "minute": "0",
           "text": "Hello ladies and gentleman and welcome to another classic derby between Arsenal and Chelsea"
