@@ -2,22 +2,20 @@ import React, { Component } from "react";
 import { Commentary } from "./Commentary";
 import { KeyMoments } from "./KeyMoments";
 import Title from "./Title";
+import Commentators from "./Commentators";
+import Date from "./Date";
 
-export class Game extends Component {
-  componentDidMount() {
-    console.log("it rendered");
-  }
-  render() {
-    const { game } = this.props;
-    console.log(game);
-    return (
-      <div>
-        <Title title={game.title} />
-        <Commentary />
-        <KeyMoments />
-      </div>
-    );
-  }
-}
+const Game = (props) => {
+  console.log(props);
+  return (
+    <div>
+      <Title title={props.game.title} />
+      <Date date={props.game.date} />
+      <Commentators commentators={props.game.commentators} />
+      <Commentary commentary={props.game.commentary} />
+      <KeyMoments />
+    </div>
+  );
+};
 
 export default Game;
