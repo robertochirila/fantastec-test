@@ -33,10 +33,12 @@
       ],
       "keyMoments": [
         {
-          "minute": "57"
+          "minute": "57",
+          "event": "Yellow Card"
         },
         {
-          "minute": "92"
+          "minute": "92",
+          "event": "Goal"
         }
       ]
     },
@@ -73,10 +75,12 @@
       ],
       "keyMoments": [
         {
-          "minute": "57"
+          "minute": "57",
+          "event": "Yellow Card"
         },
         {
-          "minute": "92"
+          "minute": "92",
+          "event": "Goal"
         }
       ]
     },
@@ -113,10 +117,12 @@
       ],
       "keyMoments": [
         {
-          "minute": "57"
+          "minute": "57",
+          "event": "Yellow Card"
         },
         {
-          "minute": "92"
+          "minute": "92",
+          "event": "Goal"
         }
       ]
     },
@@ -153,10 +159,12 @@
       ],
       "keyMoments": [
         {
-          "minute": "57"
+          "minute": "57",
+          "event": "Yellow Card"
         },
         {
-          "minute": "92"
+          "minute": "92",
+          "event": "Goal"
         }
       ]
     },
@@ -193,10 +201,12 @@
       ],
       "keyMoments": [
         {
-          "minute": "57"
+          "minute": "57",
+          "event": "Yellow Card"
         },
         {
-          "minute": "92"
+          "minute": "92",
+          "event": "Goal"
         }
       ]
     }
